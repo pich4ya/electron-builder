@@ -24,7 +24,7 @@
     "7zip-bin": "~3.1.0",
     "semver": "^5.5.0",
     "lazy-val": "^1.0.3",
-    "js-yaml": "^3.11.0"
+    "js-yaml": "^4.1.1"
   },
   "typings": "./out/util.d.ts"
 }
